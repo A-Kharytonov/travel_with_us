@@ -449,9 +449,9 @@ main {
 	}
 
 
-	/* .content:not(:hover) {
+	.content:not(:hover) {
 		opacity: 0.3;
-	} */
+	}
 
 	.right {
 
@@ -479,7 +479,7 @@ main {
 		.container {
 
 
-			.content-re view {
+			.content-review {
 				display: flex;
 				flex-direction: column;
 				padding-block: 220px 180px;
